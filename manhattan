@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Title</title>
+    
+   <link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"
+  </head>
+  <style>
+    .manhattan-style {
+      color: red;
+      text-align: center;
+      font-family: Lobster;
+      font-size: 60px
+    }
+  
+  </style>
+  <body>
+<div>
+
+<h1 class="manhattan-style">
+  Manhattan
+    </h1>
+ </div>
+<div>
+  <p>
+<input type="checkbox" name="ingredients" value="glass"> rocks glass<br>
+    <input type="checkbox" name="shaker" value="shaker"> shaker<br>
+    <input type="checkbox" name="ice" value="ice"> ice<br>
+    <input type="checkbox" name="bourbon" value="bourbon"> bourbon<br>
+    <input type="checkbox" name="sweetvermouth" value="sv"> sweet vermouth<br>
+    <input type="checkbox" name="bitters" value="bt"> bitters<br>
+    <input type="checkbox" name="cherry" value="ch"> cherry<br>
+   
+  </p>
+    </div>    
+    <div>
+      <p>
+        <ol>
+          <li>Fill shaker w/ ice.</li>
+          <li>Pour 2oz bourbon, 1 oz sweet vermouth in shaker</li>
+          <li>Shake and strain into rocks glass</li>
+          <li>Add two dashes of bitters</li>
+          <li> Place cherry in drink</li>
+          
+      </ol>
+      </p>
+    </div>
+    <a title="By Hayford Peirce at English Wikipedia [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Manhattan_Cocktail2.jpg"><img width="200" alt="Manhattan Cocktail2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Manhattan_Cocktail2.jpg/512px-Manhattan_Cocktail2.jpg"></a>
+    
+  </body>
+</html>
